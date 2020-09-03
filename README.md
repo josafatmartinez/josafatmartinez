@@ -4,7 +4,7 @@
 
 ## I'm a Developer!
 
-I Am An Ios Developer, And I Like To Make Happy Code, I Consider Myself A Self-Taught Person And I'm Always Looking For New Ways To Learn, Help Others, As A Mobile App Developer, I've Found Ways To Experiment With Updates And New Languages Programming, I Have 3 Years Of Experience Working As A Developer Of iOS.
+I Am An Ios Developer, And I Like To Make Happy Code, I Consider Myself A Self-Taught Person And I'm Always Looking For New Ways To Learn, Help Others, As A Mobile App Developer, I've Found Ways To Experiment With Updates And New Languages Programming, I have been working as an iOS developer since 2016.
 
 “People Can Be Very Smart Or Have Good Skills, But If You Don't Believe It, You Won't Really Work Hard.” 
 
