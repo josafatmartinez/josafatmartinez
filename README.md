@@ -1,7 +1,6 @@
 ### Hi there, I'm Josafat - aka Josa 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamjosafatmtz?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/JosafatCMtz/sample-MVP-architecture?style=social)
 
 ## I'm a Developer!
 
@@ -32,7 +31,8 @@ I Am An Ios Developer, And I Like To Make Happy Code, I Consider Myself A Self-T
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Firabase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-
+<img align="left" alt="Travis CI" width="26px" src="https://travis-ci.com/images/logos/TravisCI-Mascot-2.png" />
+<img align="left" alt="Fastlane" width="78px" src="https://fastlane.tools/assets/images/fastlane-logo-lockup.png" />
 
 [website]: https://buho-beta-dev.web.app/
 [twitter]: https://twitter.com/iamjosafatmtz
