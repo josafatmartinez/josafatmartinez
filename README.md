@@ -37,4 +37,4 @@ I Am An Ios Developer, And I Like To Make Happy Code, I Consider Myself A Self-T
 [website]: https://buho-beta-dev.web.app/
 [twitter]: https://twitter.com/iamjosafatmtz
 [instagram]: https://www.instagram.com/iamjosacmtz/
-[linkedin]: https://www.linkedin.com/in/josafatmt
+[linkedin]: https://www.linkedin.com/in/josafatmtz/
