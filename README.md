@@ -1,4 +1,7 @@
-### Hi there, I'm Josafat - aka Josa 👋
+<h1 align="center">Hi there, I'm Josafat - aka Josa 👋</a>  
+  <a href="https://dev.to/zoedreams">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="☮️✝️☪️🕉☸️✡️☯️ 's DEV Profile" height="30" width="30">
+</a></h1>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamjosafatmtz?style=social)
 
