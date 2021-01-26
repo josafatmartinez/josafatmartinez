@@ -11,7 +11,7 @@ I Am An iOS Developer, And I Like To Make Happy Code, I Consider Myself A Self-T
 
 “People Can Be Very Smart Or Have Good Skills, But If You Don't Believe It, You Won't Really Work Hard.” 
 
-- 🔭 I’m currently working on a [Centro Comercial Banorte][website]!
+- 🔭 I am currently working on [Alumnos Coahuila iOS App][websiteProyect] for [SEDU Coahuila][websiteTeam]!
 
 ### Connect with me:
 
@@ -47,7 +47,8 @@ I Am An iOS Developer, And I Like To Make Happy Code, I Consider Myself A Self-T
 <p align="center"><img src="https://profile-counter.glitch.me/JosafatCMtz/count.svg" alt=""/></p>
 
 
-[website]: https://www.banorte.com/cms/banorte/mercadobanorte/#/home
+[websiteProyect]: https://apps.apple.com/mx/app/alumnos-coahuila/id1435334888
+[websiteTeam]: https://www.seducoahuila.gob.mx/
 [twitter]: https://twitter.com/iamjosafatmtz
 [instagram]: https://www.instagram.com/iamjosacmtz/
 [linkedin]: https://www.linkedin.com/in/josafatmtz/
