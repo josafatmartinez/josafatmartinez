@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Josafat - aka Josa 👋</a>  
+<h1 align="center">Hi there, I'm Josafat - aka Josa 👋
   <a href="https://dev.to/zoedreams">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="☮️✝️☪️🕉☸️✡️☯️ 's DEV Profile" height="30" width="30">
+  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="☮️✝️☪️🕉☸️✡️☯️ 's DEV Profile" height="40" width="40">
 </a></h1>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamjosafatmtz?style=social)
@@ -11,7 +11,7 @@ I Am An iOS Developer, And I Like To Make Happy Code, I Consider Myself A Self-T
 
 “People Can Be Very Smart Or Have Good Skills, But If You Don't Believe It, You Won't Really Work Hard.” 
 
-- 🔭 I am currently working on [Alumnos Coahuila iOS App][websiteProyect] for [SEDU Coahuila][websiteTeam]!
+- 🔭 I am currently working on [App SIE][websiteProyect] for **[Grupo Elektra][websiteTeam]**!
 
 ### Connect with me:
 
@@ -38,17 +38,17 @@ I Am An iOS Developer, And I Like To Make Happy Code, I Consider Myself A Self-T
 
 <br />
 
-### Github Stats
-![All Stats](https://github-readme-stats.vercel.app/api?username=JosafatCMtz&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosafatCMtz&layout=compact)
+<h2>Github Stats</h2>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JosafatCMtz&show_icons=true&include_all_commits=true&count_private=true&hide=contribs" alt="All Stats"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosafatCMtz&layout=compact" alt="Top Langs"/></p>
 
 <hr/>
 
 <p align="center"><img src="https://profile-counter.glitch.me/JosafatCMtz/count.svg" alt=""/></p>
 
 
-[websiteProyect]: https://apps.apple.com/mx/app/alumnos-coahuila/id1435334888
-[websiteTeam]: https://www.seducoahuila.gob.mx/
+[websiteProyect]:http://www.grupoelektra.com.mx/
+[websiteTeam]: http://www.grupoelektra.com.mx/
 [twitter]: https://twitter.com/iamjosafatmtz
 [instagram]: https://www.instagram.com/iamjosacmtz/
 [linkedin]: https://www.linkedin.com/in/josafatmtz/
