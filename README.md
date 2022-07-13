@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there, I'm Josafat - aka Josa 👋
-  <a href="https://dev.to/zoedreams">
+  <a href="https://dev.to/">
     <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="☮️✝️☪️🕉☸️✡️☯️ 's DEV Profile" height="40" width="40">
   </a>
 </h1>
@@ -35,7 +35,7 @@ I Am An iOS Developer, And I Like To Make Happy Code, I Consider Myself A Self-T
   <img alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
   <img alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
   <img alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-  <img alt="Vapor" width="26px" src="https://vapor.codes/img/logo.7c12f228.png" />
+  <img alt="Vapor" width="104px" src="https://user-images.githubusercontent.com/1342803/75634175-4876d680-5bd9-11ea-90d6-12c7b6a9ee3f.png" />
   <img alt="Firabase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 </p>
 
