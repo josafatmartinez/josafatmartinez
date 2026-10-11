@@ -10,44 +10,52 @@
 
 ## 👋 A little about me
 
-I’m **Josafat**, a full-stack developer focused on **business applications, MVPs, and SaaS**. I build web applications and APIs with Angular, .NET, and TypeScript, alongside projects using Next.js and Node.js.
+I’m **Josafat**, a developer building **web products, APIs, and mobile applications**. My public work includes WhatsApp automation, a Flutter patrol app, an Astro PWA, and Swift architecture examples. My broader stack includes Angular, .NET, and TypeScript.
 
 - 🧩 Interested in clean architecture and maintainable systems.
 - 💬 Building integrations that connect business workflows with WhatsApp.
-- 📱 Exploring iOS development with SwiftUI and UIKit.
+- 📱 Working across Flutter, Dart, and Swift, with an interest in maintainable mobile architecture.
 
 ## 🚀 Featured work
 
-**WA Leads** connects a conversational WhatsApp backend with a web dashboard for managing leads and bot settings.
+A selection of public projects spanning web products, APIs, mobile applications, and architecture examples.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/josafatmartinez/wa-leads-api"><img src="https://raw.githubusercontent.com/josafatmartinez/josafatmartinez/master/assets/wa-leads-api.svg" alt="WA Leads API — WhatsApp automation and conversational backend" width="100%" /></a>
-<h3>WA Leads API</h3>
-<p>Captures incoming WhatsApp messages, stores conversations, and guides users through configurable conversation trees.</p>
-<ul>
-<li>Text, buttons, and lists through WhatsApp Cloud API.</li>
-<li>Tenants, memberships, roles, and JWT authentication.</li>
-<li>Deduplication, OpenAPI documentation, and Docker support.</li>
-</ul>
-<p><strong>TypeScript · Node.js · Supabase</strong></p>
-<a href="https://github.com/josafatmartinez/wa-leads-api"><strong>Explore the backend →</strong></a>
+<tr><td width="50%" valign="top">
+<a href="https://github.com/josafatmartinez/wa-leads-api"><img src="https://raw.githubusercontent.com/josafatmartinez/josafatmartinez/master/assets/wa-leads-api.svg" width="100%" alt="WA Leads — WhatsApp automation · Web dashboard" /></a>
+<h3>WA Leads</h3>
+<p>A lead capture system connecting WhatsApp conversations with a web dashboard.</p>
+<p>Configurable conversation trees, tenant roles, authentication, and lead management.</p>
+<p><strong>Next.js · TypeScript · Node.js · Supabase</strong></p>
+<p><a href="https://github.com/josafatmartinez/wa-leads-api">Explore repository →</a> · <a href="https://github.com/josafatmartinez/wa-leads-saas">Dashboard →</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/josafatmartinez/wa-leads-saas"><img src="https://raw.githubusercontent.com/josafatmartinez/josafatmartinez/master/assets/wa-leads-dashboard.svg" alt="WA Leads Dashboard — Lead management and bot configuration" width="100%" /></a>
-<h3>WA Leads Dashboard</h3>
-<p>A web workspace for reviewing leads, updating their status and notes, and configuring bot messages.</p>
-<ul>
-<li>Next.js dashboard connected to centralized API endpoints.</li>
-<li>Login, signup, invitations, and password reset.</li>
-<li>Protected pages and documented testing workflows.</li>
-</ul>
-<p><strong>Next.js · React · TypeScript</strong></p>
-<a href="https://github.com/josafatmartinez/wa-leads-saas"><strong>Explore the dashboard →</strong></a>
+<a href="https://github.com/josafatmartinez/security_patrol_mx"><img src="https://raw.githubusercontent.com/josafatmartinez/josafatmartinez/master/assets/security-patrol.svg" width="100%" alt="Security Patrol MX — Mobile operations · QR checkpoints" /></a>
+<h3>Security Patrol MX</h3>
+<p>A Flutter application for organizing security patrols and checkpoint visits.</p>
+<p>QR scanning, patrol workflows, incident reporting, and map-based checkpoints.</p>
+<p><strong>Flutter · Dart · QR · Maps</strong></p>
+<p><a href="https://github.com/josafatmartinez/security_patrol_mx">Explore repository →</a></p>
+</td></tr>
+<tr><td width="50%" valign="top">
+<a href="https://github.com/josafatmartinez/astro-aura-pwa"><img src="https://raw.githubusercontent.com/josafatmartinez/josafatmartinez/master/assets/astro-aura.svg" width="100%" alt="AstroAura — Progressive web app · Astrology" /></a>
+<h3>AstroAura</h3>
+<p>An astrology PWA with daily horoscopes, sign compatibility, and birth-chart exploration.</p>
+<p>A responsive web experience with PWA and service-worker configuration.</p>
+<p><strong>Astro · Tailwind CSS · Firebase</strong></p>
+<p><a href="https://github.com/josafatmartinez/astro-aura-pwa">Explore repository →</a></p>
 </td>
-</tr>
+<td width="50%" valign="top">
+<a href="https://github.com/josafatmartinez/sample-MVP-architecture"><img src="https://raw.githubusercontent.com/josafatmartinez/josafatmartinez/master/assets/swift-mvp.svg" width="100%" alt="Swift MVP Architecture — iOS example · Separation of concerns" /></a>
+<h3>Swift MVP Architecture</h3>
+<p>An iOS sample demonstrating the Model–View–Presenter pattern in Swift.</p>
+<p>A focused example of view–presenter communication and separating presentation logic.</p>
+<p><strong>Swift · UIKit · MVP</strong></p>
+<p><a href="https://github.com/josafatmartinez/sample-MVP-architecture">Explore repository →</a></p>
+</td></tr>
 </table>
+
+[Browse all public repositories →](https://github.com/josafatmartinez?tab=repositories&type=public)
 
 ## 🛠️ My toolbox
 
@@ -70,6 +78,15 @@ I’m **Josafat**, a full-stack developer focused on **business applications, MV
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" />
 <img src="https://img.shields.io/badge/Supabase-101D39?style=for-the-badge&amp;logo=supabase&amp;logoColor=3ECF8E" alt="Supabase" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+</p>
+
+**Mobile & web experiences**
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Astro" />
 </p>
 
 **Delivery**
